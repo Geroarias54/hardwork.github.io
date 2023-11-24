@@ -1,0 +1,61 @@
+/* Estilos para el body */
+body {
+  background-image: url('b0bb2233643c1a398d2e5c28f8fc91bf.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+}
+/* Estilos para los elementos h1 */
+h1 {
+  font-family: 'TIMES NEW ROMAN';
+  font-size: 6;
+  color: red;
+}
+
+/* Estilos para el iframe */
+iframe {
+  width: 560px;
+  height: 315px;
+}
+
+/* Estilos para los enlaces */
+a {
+  text-decoration: none;
+}
+
+/* Estilos para las imágenes de redes sociales */
+img {
+  height: 100px;
+  width: 100px;
+}
+
+/* Estilos para el pie de página */
+footer {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Estilos para los enlaces de redes sociales */
+a[href="https://www.bing.com/ck/a?!&&p=4c749855b9db8cebJmltdHM9MTY5NDk5NTIwMCZpZ3U"] {
+  color: red;
+}
+
+a[href="https://www.bing.com/ck/a?!&&p=dc7248c631312db3JmltdHM9MTY5NDk5NTIwMCZpZ3U"] {
+  color: orange;
+}
+
+a[href="https://www.bing.com/ck/a?!&&p=694834cf958dc43cJmltdHM9MTY5NDk5NTIwMCZpZ3U"] {
+  color: orange;
+}
+
+a[href="https://mail.google.com/mail/?view=cm&fs=1&to=correo@gmail.com"] {
+  color: blue;
+}
+body#home{
+  background-color: #00c7fc;  
+}
+  
